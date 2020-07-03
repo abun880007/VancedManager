@@ -9,7 +9,6 @@
     <!-- Main Activity -->
     <string name="title_about">Про нас</string>
     <string name="title_home">Додому</string>
-    <string name="title_install">Встановити</string>
     <string name="title_settings">Налаштування</string>
 
     <!-- Home Page -->
@@ -17,7 +16,6 @@
     <string name="install">Встановити</string>
     <string name="version_installed">Встановлено:</string>
     <string name="latest">Найновіші:</string>
-    <string name="loading">Завантаження…</string>
     <string name="network_error">Немає з\'єднання з мережею</string>
     <string name="update">Оновлення</string>
     <string name="useful_links">Корисні сторінки</string>
@@ -26,7 +24,6 @@
 
     <!-- Settings -->
     <string name="accent_color">Головний Колір</string>
-    <string name="accent_color_summary">Виберіть ваш улюблений головний колір</string>
     <string name="accent_blue">Синій</string>
     <string name="accent_green">Зелений</string>
     <string name="accent_red">Червоний</string>
@@ -38,7 +35,6 @@
     <string name="theme_follow">Слідувати системі</string>
     <string name="theme_dark">Темна тема</string>
     <string name="theme_light">Світла тема</string>
-    <string name="theme_summary">Виберіть вашу улюблену тему</string>
     <string name="push_notifications">Спливаючі Сповіщення</string>
     <string name="push_notifications_summary">Отримувати спливаючі сповіщення коли доступна нова версія додатку</string>
     <string name="re_check">Перевірити ще раз</string>

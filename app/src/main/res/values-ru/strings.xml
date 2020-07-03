@@ -7,7 +7,6 @@
     <!-- Main Activity -->
     <string name="title_about">О приложении</string>
     <string name="title_home">Главная</string>
-    <string name="title_install">Установить</string>
     <string name="title_settings">Настройки</string>
     <!-- Home Page -->
     <string name="changelogs">Список изменений</string>
@@ -28,7 +27,6 @@
     <string name="button_reinstall">Переустановить</string>
     <string name="version_installed">Установлена:</string>
     <string name="latest">Последняя:</string>
-    <string name="loading">Загрузка...</string>
     <string name="successfully_installed">Успешно установлено %1$s</string>
     <string name="network_error">Нет подключения к интернету</string>
     <string name="no_microg">Нет MicroG</string>
@@ -39,7 +37,6 @@
     <string name="support_us">Поддержите нас!</string>
     <!-- Settings -->
     <string name="accent_color">Акцент</string>
-    <string name="accent_color_summary">Выберите предпочтительный цвет акцента</string>
     <string name="accent_blue">Синий</string>
     <string name="accent_green">Зелёный</string>
     <string name="accent_purple">Пурпурный</string>
@@ -55,7 +52,6 @@
     <string name="theme_follow">Как в системе</string>
     <string name="theme_dark">Тёмная тема</string>
     <string name="theme_light">Светлая тема</string>
-    <string name="theme_summary">Выберите предпочитаемую тему</string>
     <string name="update_url">Ссылка на канал обновлений</string>
     <string name="push_notifications">Push-уведомления</string>
     <string name="push_notifications_summary">Получать push-уведомление при выходе обновлений</string>

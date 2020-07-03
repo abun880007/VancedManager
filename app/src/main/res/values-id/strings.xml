@@ -7,7 +7,6 @@
     <!-- Main Activity -->
     <string name="title_about">Tentang</string>
     <string name="title_home">Menu utama</string>
-    <string name="title_install">Pasang</string>
     <string name="title_settings">Pengaturan</string>
     <!-- Home Page -->
     <string name="changelogs">Catatan perubahan</string>
@@ -28,7 +27,6 @@
     <string name="button_reinstall">Pasang ulang</string>
     <string name="version_installed">Terpasang:</string>
     <string name="latest">Terbaru:</string>
-    <string name="loading">Memuat...</string>
     <string name="successfully_installed">Berhasil dipasang %1$s</string>
     <string name="network_error">Jaringan internet tidak tersedia</string>
     <string name="no_microg">Tidak ada MicroG!</string>
@@ -40,7 +38,6 @@
 "</string>
     <!-- Settings -->
     <string name="accent_color">Aksen Warna</string>
-    <string name="accent_color_summary">Pilih aksen warna yang anda inginkan</string>
     <string name="accent_blue">Biru</string>
     <string name="accent_green">Hijau</string>
     <string name="accent_purple">Ungu</string>
@@ -56,7 +53,6 @@
     <string name="theme_follow">Ikuti sistem</string>
     <string name="theme_dark">Tema gelap</string>
     <string name="theme_light">Tema terang</string>
-    <string name="theme_summary">Pilih tema yang anda inginkan</string>
     <string name="update_url">Perbarui URL channel</string>
     <string name="push_notifications">Notifikasi push</string>
     <string name="push_notifications_summary">Terima notifikasi push saat pembaruan tersedia</string>

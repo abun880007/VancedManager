@@ -7,7 +7,6 @@
     <!-- Main Activity -->
     <string name="title_about">关于</string>
     <string name="title_home">主菜单</string>
-    <string name="title_install">安装</string>
     <string name="title_settings">设置</string>
     <!-- Home Page -->
     <string name="changelogs">变更日志</string>
@@ -28,7 +27,6 @@
     <string name="button_reinstall">重新安装</string>
     <string name="version_installed">已安装：</string>
     <string name="latest">最新</string>
-    <string name="loading">加载中。。。</string>
     <string name="successfully_installed">%1$s 成功安装</string>
     <string name="network_error">网络连接不可用</string>
     <string name="no_microg">没有 MicroG！</string>
@@ -39,7 +37,6 @@
     <string name="support_us">支持我们</string>
     <!-- Settings -->
     <string name="accent_color">强调色</string>
-    <string name="accent_color_summary">选择您喜欢的强调色</string>
     <string name="accent_blue">蓝色</string>
     <string name="accent_green">绿色</string>
     <string name="accent_purple">紫色</string>
@@ -55,7 +52,6 @@
     <string name="theme_follow">跟随系统</string>
     <string name="theme_dark">夜间模式</string>
     <string name="theme_light">日间模式</string>
-    <string name="theme_summary">选择您喜欢的主题</string>
     <string name="update_url">更新路径链接</string>
     <string name="push_notifications">推送通知</string>
     <string name="push_notifications_summary">在发布更新时接收推送通知</string>
