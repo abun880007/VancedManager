@@ -2,8 +2,8 @@
 <resources>
     <!-- Global Strings -->
     <string name="close">Close</string>
-    <string name="reset">Reset</string>
-    <string name="save">Save</string>
+    <string name="reset">রিসেট করুন</string>
+    <string name="save">সেভ করুন</string>
     <!-- Main Activity -->
     <string name="title_about">About</string>
     <string name="title_home">Home</string>
@@ -32,7 +32,7 @@
     <string name="network_error">Network connection unavailable</string>
     <string name="no_microg">No MicroG!</string>
     <string name="root_not_granted">Root access not granted</string>
-    <string name="unavailable">Ei saatavilla</string>
+    <string name="unavailable">অলভ্য</string>
     <string name="update">Update</string>
     <string name="useful_links">Useful Links</string>
     <string name="website_text">Website</string>
